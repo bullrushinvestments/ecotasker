@@ -1,0 +1,37 @@
+{
+  "name": "EcoTasker",
+  "type": "ecommerce",
+  "description": "EcoTasker offers personalized sustainable task automation for businesses and individuals to reduce their carbon footprint while streamlining daily tasks through AI-driven software.",
+  "generated_at": "2025-12-05T22:32:01.749497",
+  "components": [
+    "spec",
+    "build",
+    "deploy",
+    "spec_requirements",
+    "spec_architecture",
+    "build_code",
+    "build_test"
+  ],
+  "files_written": [
+    "businesses\\production_test\\ecommerce\\ecotasker\\src\\components\\component.tsx",
+    "businesses\\production_test\\ecommerce\\ecotasker\\__tests__\\component.test.tsx",
+    "businesses\\production_test\\ecommerce\\ecotasker\\vercel.json",
+    "businesses\\production_test\\ecommerce\\ecotasker\\src\\components\\requirements.tsx",
+    "businesses\\production_test\\ecommerce\\ecotasker\\__tests__\\architecture.test.tsx",
+    "businesses\\production_test\\ecommerce\\ecotasker\\vercel.json",
+    "businesses\\production_test\\ecommerce\\ecotasker\\src\\components\\test.tsx",
+    "businesses\\production_test\\ecommerce\\ecotasker\\src\\app\\layout.tsx",
+    "businesses\\production_test\\ecommerce\\ecotasker\\src\\app\\globals.css",
+    "businesses\\production_test\\ecommerce\\ecotasker\\src\\app\\page.tsx"
+  ],
+  "tasks_completed": 7,
+  "tasks_failed": 0,
+  "ap2_estimated_cost": 45.2,
+  "ap2_estimated_tokens": 19500,
+  "ap2_generation_approval": null,
+  "infrastructure_approvals": {
+    "analytics": null,
+    "database": null,
+    "storage": null
+  }
+}
